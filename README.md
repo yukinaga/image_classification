@@ -1,14 +1,21 @@
 # AIによる画像分類を学ぼう！【PyTorch+Colab】
-「AIによる画像分類を学ぼう！」は、CNN（畳み込みニューラルネットワーク）をベースにした画像分類技術を学ぶ講座です。  
-Google Colaboratory環境で、PyTorchを使い様々な画像分類モデルを実装します。  
-最初にPyTorchの使い方、CNNの基礎を学んだ上で、ResNet、MobileNetなどの有名モデルを実装します。  
-さらに、Transformerを利用した画像分類モデルも扱います。  
-様々な画像認識モデルの仕組みを学び、Pythonで実装できるようになりましょう。  
+「AIによる画像分類を学ぼう！」は、CNN（畳み込みニューラルネットワーク）などをベースにした画像分類技術を学ぶ講座です。  
+フレームワークにPyTorchを使い、Google Colaboratory環境で様々な画像分類のモデルを実装します。  
+AIによる画像分類は第3次AIブームのきっかけになった技術であり、応用範囲が広く多様な分野で使われています。  
   
-なお、今回の講座でプログラミング言語Pythonの解説は最小限となりますが、Pythonの基礎を解説するノートブックを予め配布します。  
-Pythonの開発環境にはGoogle Colaboratoryをメインで使用します。  
+Section1. 画像分類の概要  
+→ 画像分類の概要、および開発環境について学びます。  
 
-[AIによる画像分類を学ぼう！](https://liveai.connpass.com/event/247422/)（connpass）  
+Section2. CNNの基礎  
+→ 様々な画像分類技術のベースとなる、CNN（畳み込みニューラルネットワーク）について学びます。  
+  
+Section3. Section4. 有名モデルの実装  
+→ AlexNet、ResNet、MobileNetなどの様々な有名モデルを実装します。  
+  
+Section5. Transformerの利用  
+→ 「Transoformer」を利用した画像分類モデルを構築します。  
+
+Udemyコース: [AIによる画像分類を学ぼう！](https://www.udemy.com/course/image-classification/?referralCode=88A1CF3B4CB8B36E2FEF) 
     
 ### 自由研究室 AIRS-Lab（コミュニティ）
 「AI」をテーマに交流し、創造するWeb上のコミュニティです。  
